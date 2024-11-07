@@ -1,6 +1,6 @@
 # Random Password Generator
 
-Two example of different approaches to the Caesar Cipher problem.
+Two examples of different approaches to the Caesar Cipher problem.
 
 ## Pre-requistes
 - Python
